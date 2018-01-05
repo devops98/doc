@@ -52,3 +52,9 @@ vagrant:-
 
 vagrant, ubuntu 14.04, jenkins, nexus
 <script src="https://gist.github.com/vikaschenny/66ebb562600f534371894338fb002f6e.js"></script>
+
+***********************************************************************************************
+git :-
+***********************************************************************************************
+
+git revert and reset <script src="https://gist.github.com/vikaschenny/e2a0eff3204f22e12455cd7ad4bc390a.js"></script>
