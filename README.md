@@ -39,7 +39,8 @@ scala-sbt installation
 <script src="https://gist.github.com/vikaschenny/85e20e94d26dba2a18289efd09b80d8d.js"></script>
 sbt-docker             
 <script src="https://gist.github.com/vikaschenny/25c019a7f39149cb61d5b31d427000e4.js"></script>
-
+sbt-dockerfile
+<script src="https://gist.github.com/vikaschenny/83d399ea67e66a5ead0a5f29504cfb6f.js"></script>
 ***********************************************************************************************
 mango-db :- 
 ***********************************************************************************************
